@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:Satshabad/Queue-api.git
+[submodule "website"]
+	path = website
+	url = git@github.com:Satshabad/Queue-website.git
